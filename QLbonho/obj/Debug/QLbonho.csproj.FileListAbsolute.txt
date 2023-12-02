@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Diu_files\Nguyên lý HDH\code\QLbonho\bin\Debug\QLbonho.exe.config
+C:\Users\Admin\Documents\Diu_files\Nguyên lý HDH\code\QLbonho\bin\Debug\QLbonho.exe
+C:\Users\Admin\Documents\Diu_files\Nguyên lý HDH\code\QLbonho\bin\Debug\QLbonho.pdb
+C:\Users\Admin\Documents\Diu_files\Nguyên lý HDH\code\QLbonho\obj\Debug\QLbonho.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Diu_files\Nguyên lý HDH\code\QLbonho\obj\Debug\QLbonho.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Diu_files\Nguyên lý HDH\code\QLbonho\obj\Debug\QLbonho.Form1.resources
+C:\Users\Admin\Documents\Diu_files\Nguyên lý HDH\code\QLbonho\obj\Debug\QLbonho.Properties.Resources.resources
+C:\Users\Admin\Documents\Diu_files\Nguyên lý HDH\code\QLbonho\obj\Debug\QLbonho.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Diu_files\Nguyên lý HDH\code\QLbonho\obj\Debug\QLbonho.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Diu_files\Nguyên lý HDH\code\QLbonho\obj\Debug\QLbonho.exe
+C:\Users\Admin\Documents\Diu_files\Nguyên lý HDH\code\QLbonho\obj\Debug\QLbonho.pdb
