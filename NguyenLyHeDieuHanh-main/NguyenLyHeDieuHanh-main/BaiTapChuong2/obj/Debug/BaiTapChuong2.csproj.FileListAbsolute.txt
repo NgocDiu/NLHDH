@@ -1,0 +1,25 @@
+D:\NLHDH\BaiTapChuong2\bin\Debug\BaiTapChuong2.exe.config
+D:\NLHDH\BaiTapChuong2\bin\Debug\BaiTapChuong2.exe
+D:\NLHDH\BaiTapChuong2\bin\Debug\BaiTapChuong2.pdb
+D:\NLHDH\BaiTapChuong2\obj\Debug\BaiTapChuong2.csproj.AssemblyReference.cache
+D:\NLHDH\BaiTapChuong2\obj\Debug\BaiTapChuong2.Main.resources
+D:\NLHDH\BaiTapChuong2\obj\Debug\BaiTapChuong2.Properties.Resources.resources
+D:\NLHDH\BaiTapChuong2\obj\Debug\BaiTapChuong2.SJFform.resources
+D:\NLHDH\BaiTapChuong2\obj\Debug\BaiTapChuong2.csproj.GenerateResource.cache
+D:\NLHDH\BaiTapChuong2\obj\Debug\BaiTapChuong2.csproj.CoreCompileInputs.cache
+D:\NLHDH\BaiTapChuong2\obj\Debug\BaiTapChuong2.exe
+D:\NLHDH\BaiTapChuong2\obj\Debug\BaiTapChuong2.pdb
+D:\NLHDH\BaiTapChuong2\obj\Debug\FCFS.Form1.resources
+C:\Users\Admin\Documents\Diu_files\Nguyên lý HDH\NLHDH\NguyenLyHeDieuHanh-main\NguyenLyHeDieuHanh-main\BaiTapChuong2\bin\Debug\BaiTapChuong2.exe.config
+C:\Users\Admin\Documents\Diu_files\Nguyên lý HDH\NLHDH\NguyenLyHeDieuHanh-main\NguyenLyHeDieuHanh-main\BaiTapChuong2\bin\Debug\BaiTapChuong2.exe
+C:\Users\Admin\Documents\Diu_files\Nguyên lý HDH\NLHDH\NguyenLyHeDieuHanh-main\NguyenLyHeDieuHanh-main\BaiTapChuong2\bin\Debug\BaiTapChuong2.pdb
+C:\Users\Admin\Documents\Diu_files\Nguyên lý HDH\NLHDH\NguyenLyHeDieuHanh-main\NguyenLyHeDieuHanh-main\BaiTapChuong2\obj\Debug\BaiTapChuong2.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Diu_files\Nguyên lý HDH\NLHDH\NguyenLyHeDieuHanh-main\NguyenLyHeDieuHanh-main\BaiTapChuong2\obj\Debug\BaiTapChuong2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Diu_files\Nguyên lý HDH\NLHDH\NguyenLyHeDieuHanh-main\NguyenLyHeDieuHanh-main\BaiTapChuong2\obj\Debug\BaiTapChuong2.Main.resources
+C:\Users\Admin\Documents\Diu_files\Nguyên lý HDH\NLHDH\NguyenLyHeDieuHanh-main\NguyenLyHeDieuHanh-main\BaiTapChuong2\obj\Debug\BaiTapChuong2.Properties.Resources.resources
+C:\Users\Admin\Documents\Diu_files\Nguyên lý HDH\NLHDH\NguyenLyHeDieuHanh-main\NguyenLyHeDieuHanh-main\BaiTapChuong2\obj\Debug\BaiTapChuong2.SJFform.resources
+C:\Users\Admin\Documents\Diu_files\Nguyên lý HDH\NLHDH\NguyenLyHeDieuHanh-main\NguyenLyHeDieuHanh-main\BaiTapChuong2\obj\Debug\BaiTapChuong2.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Diu_files\Nguyên lý HDH\NLHDH\NguyenLyHeDieuHanh-main\NguyenLyHeDieuHanh-main\BaiTapChuong2\obj\Debug\BaiTapChuong2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Diu_files\Nguyên lý HDH\NLHDH\NguyenLyHeDieuHanh-main\NguyenLyHeDieuHanh-main\BaiTapChuong2\obj\Debug\BaiTapChuong2.exe
+C:\Users\Admin\Documents\Diu_files\Nguyên lý HDH\NLHDH\NguyenLyHeDieuHanh-main\NguyenLyHeDieuHanh-main\BaiTapChuong2\obj\Debug\BaiTapChuong2.pdb
+C:\Users\Admin\Documents\Diu_files\Nguyên lý HDH\NLHDH\NguyenLyHeDieuHanh-main\NguyenLyHeDieuHanh-main\BaiTapChuong2\obj\Debug\QLbonho.ThreandAndProcess.resources
